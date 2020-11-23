@@ -1,0 +1,12 @@
+name: compost-tracker
+title: compost-tracker
+username:
+account: stubbs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3283634
+bundleId: 3892781
+url: https://stubbs.shinyapps.io/compost-tracker/
+when: 1606092388.20969
+asMultiple: FALSE
+asStatic: FALSE
